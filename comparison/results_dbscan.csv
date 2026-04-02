@@ -1,0 +1,2 @@
+Algorithm,Type,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+DBSCAN,Unsupervised,N/A,0.0,0.0,0.0,N/A

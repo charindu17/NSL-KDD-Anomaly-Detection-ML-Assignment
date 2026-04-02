@@ -1,0 +1,2 @@
+Algorithm,Type,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+XGBoost,Supervised,0.781,0.7984,0.9718,0.8766,0.4913

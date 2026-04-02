@@ -1,0 +1,5 @@
+Algorithm,Type,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Isolation Forest,Unsupervised,,0.7956,0.5106,0.622,0.4915
+DBSCAN,Unsupervised,,0.0,0.0,0.0,
+Random Forest,Supervised,0.8002,0.8002,1.0,0.889,0.5119
+XGBoost,Supervised,0.781,0.7984,0.9718,0.8766,0.4913
