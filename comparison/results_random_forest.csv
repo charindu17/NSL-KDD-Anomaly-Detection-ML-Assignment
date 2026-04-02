@@ -1,0 +1,2 @@
+Algorithm,Type,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Random Forest,Supervised,0.8002,0.8002,1.0,0.889,0.5119

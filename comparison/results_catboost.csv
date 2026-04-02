@@ -1,0 +1,2 @@
+Algorithm,Type,Accuracy,Precision,Recall,F1 Score,ROC-AUC,CV F1 Mean,CV F1 Std
+CatBoost,Supervised,0.7664,0.8084,0.9281,0.8641,0.4656,0.9063,0.0064

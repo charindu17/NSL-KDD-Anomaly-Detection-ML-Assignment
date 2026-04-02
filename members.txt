@@ -1,0 +1,18 @@
+ML Assignment — Group Members
+==============================
+
+Member 1 (Catboost)
+ID: [STUDENT ID]
+Email: [student1@email.com]
+
+Member 2 (LightGMB)
+ID: [STUDENT ID]
+Email: [student2@email.com]
+
+Member 3 (Random Forest)
+ID: [STUDENT ID]
+Email: [student3@email.com]
+
+Member 4 (XGBoost)
+ID: [STUDENT ID]
+Email: [student4@email.com]

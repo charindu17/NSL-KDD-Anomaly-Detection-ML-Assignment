@@ -1,0 +1,19 @@
+ML Assignment — Submission Links
+==================================
+
+Dataset Link:
+https://www.kaggle.com/datasets/programmer3/nsl-kdd-intrusion-detection-dataset
+
+GitHub Repository (public):
+[PASTE YOUR GITHUB REPO LINK HERE]
+e.g. https://github.com/yourusername/ML-assignment
+
+YouTube Presentation Video:
+[PASTE YOUR YOUTUBE LINK HERE]
+e.g. https://www.youtube.com/watch?v=XXXXXXXXXXX
+
+Notes:
+- GitHub repo contains all 5 notebooks with commit history
+- Each member committed their individual notebook separately
+- Commit messages describe each contribution
+- Video is under 20 minutes; each member explains ~4 mins of their algorithm

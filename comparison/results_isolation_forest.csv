@@ -1,0 +1,2 @@
+Algorithm,Type,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Isolation Forest,Unsupervised,N/A,0.7956,0.5106,0.622,0.4915
