@@ -1,5 +1,5 @@
-Algorithm,Type,Accuracy,Precision,Recall,F1 Score,ROC-AUC
-Isolation Forest,Unsupervised,,0.7956,0.5106,0.622,0.4915
-DBSCAN,Unsupervised,,0.0,0.0,0.0,
-Random Forest,Supervised,0.8002,0.8002,1.0,0.889,0.5119
-XGBoost,Supervised,0.781,0.7984,0.9718,0.8766,0.4913
+Algorithm,Type,Accuracy,Precision,Recall,F1 Score,ROC-AUC,CV F1 Mean,CV F1 Std
+Random Forest,Supervised,0.7607,0.7976,0.9394,0.8627,0.4785,0.8846,0.0073
+XGBoost,Supervised,0.7675,0.8086,0.9295,0.8648,0.481,0.8882,0.006
+CatBoost,Supervised,0.7664,0.8084,0.9281,0.8641,0.4656,0.9063,0.0064
+LightGBM,Supervised,0.6851,0.797,0.8138,0.8053,0.4855,0.8988,0.008
