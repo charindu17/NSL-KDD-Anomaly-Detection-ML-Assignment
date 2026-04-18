@@ -1,3 +1,16 @@
 catboost/catboost_info
+catboost_info/
 dbscan
 isolation_forest
+catboost/venv
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Compiled / binary artefacts
+data/processed/preprocessed_data.pkl
+__pycache__/
+*.pyc
+
+# Old catboost output folder (outputs now go to comparison/)
+catboost/output/
