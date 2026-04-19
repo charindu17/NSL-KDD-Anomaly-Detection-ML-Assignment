@@ -2,6 +2,8 @@ catboost/catboost_info
 catboost_info/
 dbscan
 isolation_forest
+.venv/
+venv/
 catboost/venv
 
 # Jupyter checkpoints
