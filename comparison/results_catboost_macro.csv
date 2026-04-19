@@ -1,0 +1,2 @@
+Algorithm,Type,Accuracy,Precision (macro),Recall (macro),F1 (macro),ROC-AUC,CV F1 macro Mean,CV F1 macro Std
+CatBoost,Supervised,0.7438,0.5223,0.5135,0.5085,0.5042,0.8797,0.0069
