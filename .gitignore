@@ -1,3 +1,5 @@
 catboost/catboost_info
 dbscan
 isolation_forest
+.venv/
+venv/

@@ -1,2 +1,2 @@
-Algorithm,Type,Accuracy,Precision,Recall,F1 Score,ROC-AUC
-XGBoost,Supervised,0.781,0.7984,0.9718,0.8766,0.4913
+Algorithm,Type,Accuracy,Precision,Recall,F1 Score,ROC-AUC,CV F1 Mean,CV F1 Std
+XGBoost,Supervised,0.7415,0.8015,0.8999,0.8478,0.4715,0.8792,0.0096
